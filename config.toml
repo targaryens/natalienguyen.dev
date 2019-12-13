@@ -1,4 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://natalienguyen.dev/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-paper"
+title = "Natalie Nguyen 🍉"
+description = "I work in IT"
+
+theme=["hugo-paper-amended", "hugo-paper"]
+
+googleAnalytics = "UA-154580558-1"
