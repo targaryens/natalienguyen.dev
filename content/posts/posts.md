@@ -1,14 +1,10 @@
 ---
-title: "Posts"
+title: "Intro"
 date: 2019-12-14T00:17:03+11:00
-draft: false
+draft: true
 author: "Natalie Nguyen"
 tags: [
     "webdev",
     "splunk"
 ]
-
 ---
-
-  > test test
-## Why code
