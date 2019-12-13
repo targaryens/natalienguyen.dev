@@ -1,8 +1,8 @@
-baseURL = "https://relaxed-ramanujan-1e6ef2.netlify.com."
+baseURL = "https://blog.natalienguyen.dev"
 languageCode = "en-us"
 title = "Natalie Nguyen 🍉"
 description = "I work in IT"
 
-theme=["hugo-paper-amended", "hugo-paper"]
+theme=["monopriv","hugo-paper-amended", "hugo-paper"]
 
 googleAnalytics = "UA-154580558-1"
