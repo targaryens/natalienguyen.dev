@@ -3,6 +3,6 @@ languageCode = "en-us"
 title = "Natalie Nguyen 🍉"
 description = "I work in IT"
 
-theme=["monopriv","hugo-paper-amended", "hugo-paper"]
+theme=["hugo-paper-amended", "hugo-paper","monopriv"]
 
 googleAnalytics = "UA-154580558-1"
