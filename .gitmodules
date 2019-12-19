@@ -10,3 +10,6 @@
 [submodule "themes/hugo-paper-amended"]
 	path = themes/hugo-paper-amended
 	url = https://github.com/targaryens/hugo-paper-amended.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
